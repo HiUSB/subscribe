@@ -1,2 +1,2 @@
 # subscribe
-ssr,v2ray
+hi haha..
