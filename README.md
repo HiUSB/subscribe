@@ -1,3 +1,2 @@
 # subscribe
-hi haha..
-越来越慢！
+I'll be back!
